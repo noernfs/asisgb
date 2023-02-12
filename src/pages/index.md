@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KM & Associates
-image: /img/kmah.png
+image: /img/campaign-creators-gmsnxqiljp4-unsplash.webp
 heading: Manajemen Bisnis dan Hukum
 subheading: HR and Legal Management
 mainpitch:
