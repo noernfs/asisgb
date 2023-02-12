@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: KM & Associates
+image: /img/kmah.png
+heading: Manajemen Bisnis dan Hukum
+subheading: HR and Legal Management
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Tentang Kami
+  description: "Kami adalah Perusahaan Konsultan Bisnis dan Hukum yang membantu
+    klien kami dalam memberikan solusi, pelatihan pengelolaan manajemen
+    perusahaan termasuk memperbaiki sistem manajemen dan teknologi informasi. "
+description: Pengalaman dari konsultan kami berdasarkan pengalaman sebagai
+  praktisi di perusahaan nasional, perusahaan asing dan Perusahaan Badan Usaha
+  Milik Negara (BUMN). Bergabunganlah dengan kami, Organisasi kami akan
+  memberikan pengalaman yang sangat berkesan, pengalaman baru, keilmuan baru,
+  pemahaman baru, sehingga diharapkan seluruh bagian dari organisasi kami dapat
+  terus melakukan self improvement dan mendapatkan kesempatan untuk maju dan
+  terus berkembang.
 intro:
   blurbs:
     - image: /img/coffee.png
