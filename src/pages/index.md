@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KM & Associates
-image: /img/pexels-christina-morillo-1181396.jpg
+image: /img/fix.webp
 heading: Manajemen Bisnis dan Hukum
 subheading: HR and Legal Management
 mainpitch:
@@ -9,16 +9,18 @@ mainpitch:
   description: "Kami adalah Perusahaan Konsultan Bisnis dan Hukum yang membantu
     klien kami dalam memberikan solusi, pelatihan pengelolaan manajemen
     perusahaan termasuk memperbaiki sistem manajemen dan teknologi informasi. "
-description: Pengalaman dari konsultan kami berdasarkan pengalaman sebagai
-  praktisi di perusahaan nasional, perusahaan asing dan Perusahaan Badan Usaha
-  Milik Negara (BUMN). Bergabunganlah dengan kami, Organisasi kami akan
-  memberikan pengalaman yang sangat berkesan, pengalaman baru, keilmuan baru,
-  pemahaman baru, sehingga diharapkan seluruh bagian dari organisasi kami dapat
-  terus melakukan self improvement dan mendapatkan kesempatan untuk maju dan
-  terus berkembang.
+description: Satuan kerja kami terdiri dari asosiasi individu dengan pengalaman
+  sebagai praktisi profesional dibidangnya dan memiliki pemahaman intensif pada
+  kompleksitas variasi implementasi bisnis efektif yang meliputi analisa
+  aktivitas berjalan, pengarahan pada kegiatan operasional berdasarkan
+  standarisasi industri, dan strategi pengembangan sumber daya manusia dengan
+  parameter konstruktif yang digunakan oleh berbagai perusahaan swasta dalam
+  negeri, Badan Usaha Milik Negara (BUMN), dan perusahaan dengan taraf
+  internasional. Segera diskusikan kebutuhan anda dengan konsultan kami. Satu
+  klik untuk sejuta manfaat
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/audit-amico.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
