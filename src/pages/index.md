@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KM & Associates
-image: /img/campaign-creators-gmsnxqiljp4-unsplash.webp
+image: /img/pexels-christina-morillo-1181396.jpg
 heading: Manajemen Bisnis dan Hukum
 subheading: HR and Legal Management
 mainpitch:
